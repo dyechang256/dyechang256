@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 * 勉強したい技術
   *JavaScript
 * 好物
-* *うどん
+  *うどん
