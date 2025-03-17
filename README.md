@@ -1,25 +1,10 @@
 ## Hi there 👋
 
-<!--
-**dyechang256/dyechang256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 * 名前
-  *玉木　大智
+  * 玉木　大智
 * 好きなもの
-  *創作活動
+  * 創作活動
 * 勉強したい技術
-  *JavaScript
+  * JavaScript
 * 好物
-  *うどん
+  * うどん
