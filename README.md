@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   *創作活動
 * 勉強したい技術
   *JavaScript
-  好物
-  うどん
+* 好物
+* *うどん
