@@ -6,5 +6,6 @@
   * 創作活動
 * 勉強したい技術
   * JavaScript
+  * procreate
 * 好物
-  * うどん
+  * 蒸したエビ
